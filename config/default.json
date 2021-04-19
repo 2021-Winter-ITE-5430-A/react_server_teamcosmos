@@ -1,0 +1,5 @@
+{
+   "mongoDBConnection": "mongodb+srv://cosmoproject57:Pothunter1@cluster0.74wtf.mongodb.net/cosmo?retryWrites=true&w=majority",
+   "jwtsecret": "secret"
+}
+ 
