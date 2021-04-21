@@ -11,3 +11,6 @@
 1. https://ismaila-server.herokuapp.com/api/abouts
 2. https://ismaila-server.herokuapp.com/api/templates
 3. https://ismaila-server.herokuapp.com/api/User
+
+###  post/tested with postman to generate token.
+4. https://ismaila-server.herokuapp.com/api/auth 
